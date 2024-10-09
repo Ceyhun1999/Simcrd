@@ -1,0 +1,29 @@
+
+
+@font-face {
+  font-family: "Mont";
+  src: url("/assets/fonts/FontsFree-Net-Mont1.ttf") format("ttf");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Graphik";
+  src: url("/assets/fonts/Graphik-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Graphik";
+  src: url("/assets/fonts/Graphik-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Graphik";
+  src: url("/assets/fonts/Graphik-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
